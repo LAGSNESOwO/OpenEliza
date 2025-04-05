@@ -1,0 +1,3 @@
+flask==2.0.1
+python-eliza==0.0.2
+gunicorn==20.1.0
